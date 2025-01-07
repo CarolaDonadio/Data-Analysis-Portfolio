@@ -1,0 +1,18 @@
+What you will see in this project 👉🏻 Creation of a beginner level report with a step-by-step explanation to create it, following the phases of Microsoft Power BI for data analysis: Get Data (GD), Data Preparation (DP) with PowerQuery or Query Editor, Data Modeling (DM) with DAX, Data Visualization (DV), Data Reporting (DR).
+
+What do we need to calculate?
+• Total number of employees
+• Number of active employees
+• Number of inactive employees
+
+How are we going to calculate it?
+• Implicit measures + filter panel
+• Explicit DAX measures
+
+What visualizations are we going to use?
+• Cards
+• Data slicers
+• Pie chart
+• Ring chart
+• Rectangle chart
+• Maps
