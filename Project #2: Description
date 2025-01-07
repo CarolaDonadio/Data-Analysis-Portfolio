@@ -1,0 +1,29 @@
+What you will see in this project 👉🏻 Creation of a beginner-level report with a step-by-step explanation of how to do it, following the phases of Microsoft Power BI for data analysis: Get Data (GD), Data Preparation (DP) with PowerQuery or Query Editor, Data Modeling (DM) with DAX, Data Visualization (DV), Data Reporting (DR).
+
+Project: Analysis of Complaints to Consumer Protection and Defense
+
+This project aims to carry out a comprehensive analysis of the complaints filed with the Consumer Protection and Defense authorities, covering different dimensions of the phenomenon and providing key information to understand consumption patterns and the most recurrent problems faced by consumers. The report presents a detailed breakdown of the complaints, covering the total number of complaints received, the temporal distribution, the geography of the cases, the reasons behind the complaints and the industries involved.
+
+Areas of Analysis:
+• Total Complaints: The analysis begins with a global look at the total number of complaints filed over time. This indicator allows us to understand the volume of consumer concerns and complaints and how the number of complaints has evolved over the years. This analysis can show whether there has been an increase or decrease in complaint activity, which could be related to social, economic or public policy factors.
+
+• Complaints by Month and Year: Through a monthly and annual segmentation, the peaks and valleys in the number of complaints are analyzed. This temporal breakdown helps to identify seasonal patterns or specific fluctuations over time. In addition, the variation in complaints can be correlated with relevant events, consumer protection campaigns or changes in legislation.
+
+• Complaints by Commune: A geographic analysis is carried out, breaking down the complaints by commune or region. This analysis provides a clear view of the areas with the highest number of complaints, which may reflect inequalities in access to quality products or services, or areas with greater consumer problems. At a local level, authorities can use this data to prioritize actions and improve regulation in specific areas.
+
+• Complaints by Reason: A detailed analysis of the reasons why consumers file complaints is essential to understand the main problems in the market. This section classifies complaints according to the most frequent reasons (fraud, breach of contract, product or service failures, misleading advertising, etc.). By knowing these reasons, authorities and companies can take corrective and preventive measures to better protect consumers.
+
+• Complaints by Sector: A breakdown of complaints is made according to the sector or commercial activity sector involved (telephony, public services, online sales, electronic products, etc.). This analysis makes it possible to identify which industries face more consumer problems and in which sectors there are greater tensions between consumers and suppliers. The data obtained can help focus enforcement efforts and implement specific regulations in key sectors.
+
+Project Objective:
+The main objective of this project is to provide a clear and detailed overview of complaints to the Consumer Protection and Defense Department, so that those responsible for consumer protection can make decisions based on solid data. This report also aims to raise awareness of recurring problems faced by consumers and promote public policies that reinforce their rights.
+
+Expected Impact:
+With this analysis, we seek to:
+
+• Identify recurring patterns in complaints, allowing authorities to prioritize critical areas of intervention.
+• Help companies improve their business and customer service practices, reducing the number of complaints.
+• Facilitate decision-making by regulatory authorities based on specific and concrete data.
+
+Tools Used:
+The project uses advanced data analysis and visualization tools such as Power BI and Excel. Statistical techniques are used to detect significant trends, correlations and patterns, allowing for clear visualizations such as line graphs, bar graphs and geographic maps that facilitate the interpretation of results.
