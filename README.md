@@ -1,22 +1,14 @@
-Project: Analysis of Video Game Sales (1980 - 2017)
+¡Hola y bienvenidos a mi portafolio de GitHub!
 
-This project aims to carry out an exhaustive analysis of historical video game sales from 1980 to 2017, with the purpose of discovering patterns, trends and comparisons over time and between different variables. The analysis focuses on providing key information that allows us to understand how video game sales have evolved in terms of units sold, the impact of different platforms, genres and regions, as well as the influence of publishers in the global market.
+Soy un Analista de Datos Junior con una sólida formación en la manipulación, análisis e interpretación de datos. Mi objetivo es transformar datos crudos en información clave que facilite la toma de decisiones y optimice procesos.
 
-Areas of Analysis:
-• Total Sales by Year: The analysis presents the total number of video game units sold worldwide, broken down by year. It seeks to identify long-term trends, sales peaks and the most successful years for the industry. This allows us to observe how sales have behaved over time and how they relate to the development of new technologies and platforms.
+A lo largo de mi formación y experiencia, he trabajado con diversas herramientas y tecnologías como:
 
-• Sales by Region: Video game sales are broken down by geographic region, providing a clear view of the most important markets. Regions included are North America, Europe, Japan, and the Rest of the World. This analysis helps you assess how gaming taste and consumption varies across cultures and how publishers and platforms adapt to regional preferences.
+Bases de Datos: MySQL, SQL Server y PostgreSQL, donde he creado consultas eficientes y gestionado grandes volúmenes de datos.
+Herramientas de Análisis y Visualización: Power BI, Google Sheets, y Power Query, con los que he desarrollado dashboards interactivos y soluciones de análisis que permiten una visualización clara de los datos.
+Lenguajes de Programación y Automización: Python, que utilizo para procesamiento de datos, automatización de tareas y análisis avanzados.
+Herramientas de Productividad: Microsoft Office, Google Docs y Google Sheets, las cuales me permiten organizar, documentar y presentar mis resultados de manera clara y profesional.
+Modelado de Datos: DAX, donde he construido medidas y cálculos complejos para proporcionar insights detallados.
+Estoy en constante aprendizaje, buscando mejorar mis habilidades y aplicar soluciones innovadoras a los desafíos que enfrento. Aquí encontrarás proyectos en los que he trabajado, tanto en el análisis de datos como en la creación de modelos y reportes interactivos.
 
-• Sales by Year and Region: To better understand market fluctuations, a breakdown of annual sales by region is presented. This helps you identify years when a region was particularly active or how platform changes or popular titles affected sales by territory.
-
-• Sales by Platform: This section allows you to see how different video game platforms (consoles, PC, mobile, etc.) have impacted sales over time. Analyzing the popularity of different platforms reveals how technological advances, console and device availability, and companies' business strategies have influenced each platform's adoption and sales volume.
-
-• Sales by Genre: An analysis of sales segmented by video game genre (action, adventure, sports, simulators, etc.) is carried out. This category allows us to see which types of games have dominated the market in certain periods and how player preferences have changed over time, as well as offering an insight into the diversity and evolution of genres in the industry.
-
-• Sales Table by Publisher, Name, Year and Sales: A detailed table with the best-selling video games, including the name of the game, the publisher, the year of release and total sales (in millions of units). This table allows us to identify which games and which publishers have been most successful over the decades, providing valuable information on market dynamics and competition between major video game companies.
-
-Project Objective:
-The analysis seeks to provide a clear and understandable view of the evolution of the video game industry, allowing us to identify the main market drivers, from emerging platforms to the titles and genres that have captured global attention. The results can also help companies in the sector to make decisions based on historical data, optimising their marketing, development and distribution strategies.
-
-Tools Used:
-To carry out this analysis, data visualisation tools such as Power BI and Excel have been used, as well as statistical techniques to extract significant conclusions and patterns. In addition, large volumes of data from reliable sources such as video game sales databases, industry reports and regional statistics have been used.
+¡Gracias por visitar mi portafolio! Estoy emocionado de seguir aprendiendo y contribuyendo en el mundo del análisis de datos.
